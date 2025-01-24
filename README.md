@@ -4,7 +4,7 @@ Techstack:
 
 TypeScript
 Serverless
-notification service (twilio for sms)
+notification service (aws sms/email for notification)
 database ??
 
 1. configure serverless
@@ -12,6 +12,6 @@ database ??
 4. configure notification
 5. main lambda handler
 6. test locally
-7. deploy servderless to aws lambda
+7. deploy serverless to aws lambda
 8. 
 
